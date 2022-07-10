@@ -1,2 +1,2 @@
 # Public
-This is are script used for repetitive tasks
+This is are my scripts used for repetitive tasks
